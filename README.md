@@ -1,2 +1,2 @@
 # proj-ai
-AI(Stable Diffusion) 
+## Use Stable Diffusion
